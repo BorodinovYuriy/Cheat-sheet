@@ -10,8 +10,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>easy-example</module>
-        <module>auto-testing</module>
         <module>spring-example</module>
+        <module>bell-autotesting</module>
     </modules>
 
     <properties>
